@@ -4,7 +4,7 @@
 O presente projeto tem por objetivo apresentar o desenvolvimento de um jogo da forca simples programado com a linguagem Python capaz de selecionar aleatoriamente uma palavra de um objeto do tipo dicionário (chave e valor) da linguagem Python. Não estava no planejamento do trabalho realizar um trabalho pensando na simplificação e otimização do tempo de execução do código, mas sim o aprimoramento e desenvolvimento de conceitos e fundamentos vistos na prática. Entre os fundamentos abordados, está a utilização do pacote <code>random</code>, tratamento de arquivos csv e transformação dos dados em dicionário. Além da utilização de planilha e do ChatGPT para a geração das palavras a serem adivinhadas pelo usuário.
 
 ## Ferramentas
-* Python 3.9.13
+* Python 3.10.13
 * ChatGPT-4
 * Google Sheets
 
